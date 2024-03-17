@@ -1,4 +1,4 @@
-<h1 align="center">hey,im beyza ☺️ </h1>
+<h1 align="center">hey,im beyza 😊 </h1>
 <h3 align="center">a passionate ios developer from bursa</h3>
 
 
