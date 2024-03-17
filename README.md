@@ -5,5 +5,5 @@
 - 🤯 currently working on [Chattenger](https://github.com/beyzatastan/ChattengerApp)
 
 - 📫 to reach me here is my mail adress **bbeyzatastan@gmail.com**
-- and my linkedn (https://www.linkedin.com/in/beyza-nur-taştan-aa50b125b/)
+
 
